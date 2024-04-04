@@ -1,2 +1,1 @@
-# me tenes cansada
-primer clase git
+# primer clase git
